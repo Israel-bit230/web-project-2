@@ -6,11 +6,14 @@ body {
 
 h1 {
     color: darkblue;
+    font-size: 48px;
+    margin-bottom: 10px;
 }
 
 p {
     color: black;
     font-size: 20px;
+    line-height: 1.6;
 }
 
 button {
@@ -31,6 +34,8 @@ button:hover {
 h2 {
     color: darkblue;
     margin-top 40px;
+    font-size: 28x;
+    margin-bottom: 15px;
 
 }
 
